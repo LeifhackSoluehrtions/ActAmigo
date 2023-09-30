@@ -1,3 +1,3 @@
 # Act Amigo
 Eine Theaterapp von LeifhackSoluehrtions für die Anhänger der Lernbox - made with Unity <br>
-Download the full repo here: https://drive.google.com/file/d/1CZ5jzGj3sUCyAyN5zpvrGIUySHSSdsDP/view?usp=sharing
+Alternative repo download link: https://drive.google.com/file/d/1-w21G8OtKOkGrWJZu-Q-pHMffHJVPEra/view?usp=sharing
