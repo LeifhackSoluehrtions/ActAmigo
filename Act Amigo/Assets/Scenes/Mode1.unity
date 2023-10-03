@@ -294,6 +294,26 @@ MonoBehaviour:
   - Niemand hat Schuhe an
   - Musik zu laut
   - "Jemand hat eine \xDCberdosis"
+  - Einsamkeit
+  - Erbschaft
+  - Alkohol geklaut
+  - Beim Schummeln erwischt
+  - Stalking
+  - Erpressung
+  - Gehacked
+  - Ungebetener Gast
+  - Fake-Ausweis
+  - Finden eines Schatzes
+  - Amputation
+  - Betrugsmasche
+  - Bombe
+  - Allergie
+  - Unvorbereitet Periode
+  - Weltuntergang
+  - Beim Schmuggel erwischt/Zollkontrolle
+  - Liebe
+  - Beleidigung ohne Grund
+  - Fremdgegangen
   konfliktText: {fileID: 701752522}
 --- !u!1 &605421262
 GameObject:
@@ -649,7 +669,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: Klicke den "Konflikt"-Knopf!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1225,6 +1245,14 @@ MonoBehaviour:
   - Arzt
   - Drogendealer
   - Junkie
+  - Beamter
+  - Pfarrer/Priester
+  - Busfahrer/Bahnfahrer
+  - Taxifahrer/Uber-Fahrer
+  - Medium/Wahrsager
+  - Landwirt
+  - "Star (Ber\xFChmter Musiker, Schauspieler, Regisseur, etc.)"
+  - "K\xFCnstler (Maler/Zeichner)"
   special2Text: {fileID: 1208969927}
 --- !u!114 &872977424
 MonoBehaviour:
@@ -1249,7 +1277,7 @@ MonoBehaviour:
   - Selbstbewusst
   - Narzisstisch
   - Auf Entzug
-  - Nerd oder Besserwisser
+  - Nerd/Besserwisser
   - Naiv
   - Paranoid
   - Schizophren
@@ -1273,6 +1301,7 @@ MonoBehaviour:
   - Kriminell
   - "Nerv\xF6s"
   - Schreckhaft
+  - Verblendet
   special1Text: {fileID: 1181522628}
 --- !u!1 &929032099
 GameObject:
@@ -1332,7 +1361,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1611,7 +1640,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1746,7 +1775,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2143,6 +2172,14 @@ MonoBehaviour:
   - Fahrstuhl
   - Eisladen
   - Kino
+  - Taxi/Uber
+  - Kirche/Moschee/Synagoge/Schrein/Tempel
+  - Arztpraxis
+  - Toilette
+  - Hochzeit
+  - Einsame Insel
+  - Schlafzimmer
+  - Beim Urologen/Proktologen
   ortText: {fileID: 1662263728}
 --- !u!1 &1563560448
 GameObject:
@@ -2337,7 +2374,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: Klicke den "Rolle"-Knopf!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2658,7 +2695,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: Klicke den "Ort"-Knopf!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2685,8 +2722,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 120
-  m_fontSizeBase: 120
+  m_fontSize: 117
+  m_fontSizeBase: 117
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2721,7 +2758,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 13.862518, z: 14.230225, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
