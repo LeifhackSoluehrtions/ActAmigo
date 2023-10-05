@@ -1,3 +1,10 @@
+Todo:
+Pantomime 
+2 Modis
+
+1: Bild (random wikimedia)
+2: Text (Kuhle Leute)
+
 # Act Amigo
 Eine Theaterapp von LeifhackSoluehrtions für die Anhänger der Lernbox - made with Unity <br>
 ©2023 Mika Lührßen, Leif Haberecht, Elga Dickmann
