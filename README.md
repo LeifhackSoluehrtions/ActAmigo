@@ -1,9 +1,7 @@
 Todo:
 Pantomime 
-2 Modis
+statt mikas schaise aus text.txt lesen weil sonst blöd
 
-1: Bild (random wikimedia)
-2: Text (Kuhle Leute)
 
 # Act Amigo
 Eine Theaterapp von LeifhackSoluehrtions für die Anhänger der Lernbox - made with Unity <br>
